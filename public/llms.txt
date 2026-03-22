@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חנות הבשמים המקוונת של Omer מציעה מבחר קורייטד של בשמים יוקרתיים עם חוויית קנייה אלגנטית ורגשית. omer stingray evo וקולקציות נוספות מחכות לך. גלה את הניחוח שלך עכשיו.
+
+### הסיפור שלנו
+https://example.com/our-story
+הכירו את הסיפור שמאחורי Omer — מותג בשמים שנולד מאהבה לניחוחות עמוקים ואמנות ריחנית. omer 90 cayman הוא רק ההתחלה של מסע חושי בלתי נשכח. קראו את הסיפור שלנו.
+
+### גלריה
+https://example.com/gallery
+גלריית הבשמים של Omer חושפת קולקציות מרהיבות כולל omer airbalete 90 — כל תמונה מספרת סיפור חושי. התרשמו מהאסתטיקה היוקרתית שלנו ומצאו את הבושם שמדבר אל ליבכם.
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלה על omer stingray evo או omer 90 cayman? צוות Omer זמין לעזור לכם לבחור את הבושם שמתאים בדיוק לכם. צרו קשר עוד היום ונתחיל יחד את המסע הריחני שלכם.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Omer
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Omer
+
+### Category
+https://example.com/category/:slug
+מוצרים - Omer
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
